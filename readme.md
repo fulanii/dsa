@@ -47,23 +47,23 @@ Work in progress — notes get added as I work through each topic.
 
 | Topic | Status |
 | --- | --- |
-| [Big O](01-big-o/) | 🟨 In progress |
-| [Classes & Pointers](02-classes-and-pointers/) | ⬜ Not started |
-| [Linked Lists](03-linked-lists/) | ⬜ Not started |
-| [Doubly Linked Lists](04-doubly-linked-lists/) | ⬜ Not started |
-| [Stacks & Queues](05-stacks-and-queues/) | ⬜ Not started |
-| [Trees](06-trees/) | ⬜ Not started |
-| [Hash Tables](07-hash-tables/) | ⬜ Not started |
-| [Graphs](08-graphs/) | ⬜ Not started |
-| [Heaps](09-heaps/) | ⬜ Not started |
-| [Recursion](10-recursion/) | ⬜ Not started |
-| [Recursive Binary Search Trees](11-recursive-binary-search-trees/) | ⬜ Not started |
-| [Tree Traversal](12-tree-traversal/) | ⬜ Not started |
-| [Basic Sorts](13-basic-sorts/) | ⬜ Not started |
-| [Merge Sorts](14-merge-sorts/) | ⬜ Not started |
-| [Quick Sort](15-quick-sort/) | ⬜ Not started |
-| [Dynamic Programming](16-dynamic-programming/) | ⬜ Not started |
-| [Coding Exercises](17-coding-exercises/) | ⬜ Not started |
+| [Big O](01-big-o/README.md) | 🟨 In progress |
+| [Classes & Pointers](02-classes-and-pointers/README.md) | ⬜ Not started |
+| [Linked Lists](03-linked-lists/README.md) | ⬜ Not started |
+| [Doubly Linked Lists](04-doubly-linked-lists/README.md) | ⬜ Not started |
+| [Stacks & Queues](05-stacks-and-queues/README.md) | ⬜ Not started |
+| [Trees](06-trees/README.md) | ⬜ Not started |
+| [Hash Tables](07-hash-tables/README.md) | ⬜ Not started |
+| [Graphs](08-graphs/README.md) | ⬜ Not started |
+| [Heaps](09-heaps/README.md) | ⬜ Not started |
+| [Recursion](10-recursion/README.md) | ⬜ Not started |
+| [Recursive Binary Search Trees](11-recursive-binary-search-trees/README.md) | ⬜ Not started |
+| [Tree Traversal](12-tree-traversal/README.md) | ⬜ Not started |
+| [Basic Sorts](13-basic-sorts/README.md) | ⬜ Not started |
+| [Merge Sorts](14-merge-sorts/README.md) | ⬜ Not started |
+| [Quick Sort](15-quick-sort/README.md) | ⬜ Not started |
+| [Dynamic Programming](16-dynamic-programming/README.md) | ⬜ Not started |
+| [Coding Exercises](17-coding-exercises/README.md) | ⬜ Not started |
 
 ## Goal
 
