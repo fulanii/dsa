@@ -47,18 +47,23 @@ Work in progress — notes get added as I work through each topic.
 
 | Topic | Status |
 | --- | --- |
-| Arrays & Strings | ⬜ Not started |
-| Hash Maps & Sets | ⬜ Not started |
-| Two Pointers & Sliding Window | ⬜ Not started |
-| Stacks & Queues | ⬜ Not started |
-| Linked Lists | ⬜ Not started |
-| Binary Search | ⬜ Not started |
-| Trees & BSTs | ⬜ Not started |
-| Heaps & Priority Queues | ⬜ Not started |
-| Graphs (BFS / DFS / Topo Sort) | ⬜ Not started |
-| Backtracking | ⬜ Not started |
-| Greedy | ⬜ Not started |
-| Dynamic Programming | ⬜ Not started |
+| [Big O](01-big-o/) | 🟨 In progress |
+| [Classes & Pointers](02-classes-and-pointers/) | ⬜ Not started |
+| [Linked Lists](03-linked-lists/) | ⬜ Not started |
+| [Doubly Linked Lists](04-doubly-linked-lists/) | ⬜ Not started |
+| [Stacks & Queues](05-stacks-and-queues/) | ⬜ Not started |
+| [Trees](06-trees/) | ⬜ Not started |
+| [Hash Tables](07-hash-tables/) | ⬜ Not started |
+| [Graphs](08-graphs/) | ⬜ Not started |
+| [Heaps](09-heaps/) | ⬜ Not started |
+| [Recursion](10-recursion/) | ⬜ Not started |
+| [Recursive Binary Search Trees](11-recursive-binary-search-trees/) | ⬜ Not started |
+| [Tree Traversal](12-tree-traversal/) | ⬜ Not started |
+| [Basic Sorts](13-basic-sorts/) | ⬜ Not started |
+| [Merge Sorts](14-merge-sorts/) | ⬜ Not started |
+| [Quick Sort](15-quick-sort/) | ⬜ Not started |
+| [Dynamic Programming](16-dynamic-programming/) | ⬜ Not started |
+| [Coding Exercises](17-coding-exercises/) | ⬜ Not started |
 
 ## Goal
 
